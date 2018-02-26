@@ -21,7 +21,7 @@ References
 * [Expo](https://expo.io/)
 * [Electron](https://electronjs.org/)
 * [React Native Web](https://github.com/necolas/react-native-web)
-* [TypeScritp](https://www.typescriptlang.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 * [Flow](https://flow.org/en/docs/react/)
 * [What is a promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 * [Fetch API](https://davidwalsh.name/fetch)
